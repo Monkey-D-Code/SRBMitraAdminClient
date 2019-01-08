@@ -1,0 +1,25 @@
+.NavMenuItem{
+
+    color : #2D1E2F;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color: #FCF6B1;
+    cursor : pointer;
+
+    transition: background-color 1s;
+
+
+}
+
+.NavMenuItem:hover{
+
+    background-color: #F7B32B;
+    color : #963D26;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+
+}
